@@ -8,7 +8,7 @@
 * References
 
 ## Project description
-NLP using word2vec and skipgram
+First part: NLP using word2vec and skipgram
 
 ## Development Tools
 * PyTorch Framework
